@@ -26,7 +26,7 @@ This is a web-based, interactive choropleth map that visualizes the average annu
 The air quality data used in this project is official data from the German Environment Agency (Umweltbundesamt - UBA).
 
 -   **Primary Source**: [UBA Air Data Portal - Annual Reports (Jahresbilanzen)](https://www.umweltbundesamt.de/daten/luft/luftdaten/jahresbilanzen-luftqualitaet)
--   **Geospatial Data**: The GeoJSON file for German state boundaries was sourced from the [GeoBoundaries dataset](https://github.com/geoboundaries/germany).
+-   **Geospatial Data**: The GeoJSON file for German state boundaries was sourced from the [isellsoap/deutschlandGeoJSON repository on GitHub](https://github.com/isellsoap/deutschlandGeoJSON).
 
 ## 🚀 How to Run Locally
 
