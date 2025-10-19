@@ -1,6 +1,6 @@
 # Interactive Map of German Air Quality (PM2.5)
 
-### ➡️ [**View the Live Demo Here!**](https://hossein-zamaninasab.github.io/Interactive-German-Map/)
+### ➡️ [**View the Live Demo Here!**](https://hossein-zamaninasab.github.io/Germany-Air-Quality-Map/)
 
 This is a web-based, interactive choropleth map that visualizes the average annual PM2.5 air pollution levels across the 16 federal states of Germany. The project demonstrates the process of fetching, cleaning, processing, and visualizing real-world environmental data.
 
