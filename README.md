@@ -5,7 +5,6 @@
 This is a web-based, interactive choropleth map that visualizes the average annual PM2.5 air pollution levels across the 16 federal states of Germany. The project demonstrates the process of fetching, cleaning, processing, and visualizing real-world environmental data.
 
 ![Germany Air Quality Map Preview](preview.png)
-_Note: You need to replace placeholder.png with a real screenshot of your map._
 
 ## ✨ Features
 
